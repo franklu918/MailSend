@@ -1,4 +1,4 @@
-package juvenxu.mvnbook.account.email;
+package com.juvenxu.mvnbook.account.email;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
